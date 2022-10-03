@@ -1,9 +1,13 @@
 <resources>
-    <string name="app_name">assignment1</string>
+    <string name="app_name">Assignment 1</string>
     <string name="calculate">calculate</string>
     <string name="worked_hour">Number of Hours worked</string>
     <string name="hourly_rate">Hourly Rate</string>
     <string name="desc_total">Total Payment :</string>
     <string name="desc_tax">Tax :</string>
     <string name="empty"></string>
+    <string name="desc_fullname">Full Name :</string>
+    <string name="desc_student_id">Student ID :</string>
+    <string name="full_name">Yoonhee Kim</string>
+    <string name="studnent_id">101277278</string>
 </resources>

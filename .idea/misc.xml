@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.23451232910156253" />
+        <entry key="app/src/main/res/layout/activity_about.xml" value="0.3013810309810915" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18993225097656252" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.30885416666666665" />
       </map>
     </option>
   </component>
